@@ -1,0 +1,47 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+ENV/
+env/
+basic-flask-app-venv/
+
+# Environment variables / config
+*.env
+
+# Flask instance folder (if using it)
+instance/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+
+# Migrations (if using Flask-Migrate)
+migrations/
+
+# Dist / packaging
+build/
+dist/
+*.egg-info/
