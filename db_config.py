@@ -4,7 +4,7 @@ def get_db_connection():
     connection = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="ninu@180161",
+        password="PASSWORD",
         database="taskdb"
     )
     return connection
