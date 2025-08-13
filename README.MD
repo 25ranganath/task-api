@@ -1,3 +1,13 @@
+
+1. Create the Virtual Envionment
+2. Activate the Virtual Enviornment
+3. Install the packages 
+
+```py pip install -r requirement.txt ```
+
+4. Run the app.py 
+5. Tets the API
+
 ## 📖 API Endpoints
 
 | Method | Endpoint | Description | Payload (if applicable) |
