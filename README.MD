@@ -3,7 +3,7 @@
 2. Activate the Virtual Enviornment
 3. Install the packages 
 
-```py pip install -r requirement.txt ```
+```pip install -r requirement.txt ```
 
 4. Run the app.py 
 5. Tets the API
